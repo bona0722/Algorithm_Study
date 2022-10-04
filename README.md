@@ -18,7 +18,7 @@
 <!--문제를 풀었으면 ⬜를 🟩로 바꾸기. 
     그리고 ()안에 해당 파일 경로 작성하기.
     ex) [🟩](./PART1/PART1_kang/BOJ2501_kang.py)-->
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 약수 구하기](https://www.acmicpc.net/problem/2501)|[🟩](./PART1/PART1_kang/BOJ2501_kang.py)|[🟩](./PART1/PART1_so/BOJ2501_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" height="12"> 이진수](https://www.acmicpc.net/problem/3460)|[🟩](./PART1/PART1_kang/BOJ3460_kang.py)|[🟩](./PART1/PART1_so/BOJ3469_so.py)|[⬜]()|
@@ -33,7 +33,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 소수](https://www.acmicpc.net/problem/2581)|[🟩](./PART1/PART1_kang/BOJ2581_kang.py)|[🟩](./PART1/PART1_so/BOJ2581_so.py)|[⬜]()|
 
 # PART2 약점 체크
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[🟩](./PART1/PART2_kang/BOJ14888_kang.py)|[🟩](./PART2/PART2_so/BOJ14888_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 괄호의 값](https://www.acmicpc.net/problem/2504)|[🟩](./PART1/PART2_kang/BOJ2504_kang.py)|[⬜]()|[⬜]()|
@@ -47,7 +47,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 줄 세우기](https://www.acmicpc.net/problem/2252)|[🟩](./PART2/PART2_kang/BOJ2252_kang.py)|[🟩](./PART2/PART2_so/BOJ2252_so.py)|[⬜]()|
 
 # PART3 알고리즘 다지기 기초 백준 문제
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 수들의 합](https://www.acmicpc.net/problem/1789)|[🟩](./PART3/PART3_kang/BOJ1789_kang.py)|[🟩](./PART3/PART3_so/BOJ1789_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)|[🟩](./PART3/PART3_kang/BOJ3085_kang.py)|[🟩](./PART3/PART3_so/BOJ3085_so.py)|[⬜]()|
@@ -58,7 +58,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[🟩](./PART3/PART3_kang/BOJ17070_kang.py)|[🟩](./PART3/PART3_so/BOJ17070_so.py)|[⬜]()|
 
 # PART4 최고 빈출 DFS, BFS 기본문제
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1260_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 전쟁-전투](https://www.acmicpc.net/problem/1303)|[⬜]()|[🟩](./PART4/PART4_so/BOJ1303_so.py)|[⬜]()|
@@ -74,7 +74,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/18.svg" height="12"> 달리기](https://www.acmicpc.net/problem/16930)|[⬜]()|[⬜]()|[⬜]()|
 
 # PART5 DP 문제풀이 강훈련 백준 문제 추천
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 퇴사2](https://www.acmicpc.net/problem/15486)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 점프](https://www.acmicpc.net/problem/1890)|[⬜]()|[⬜]()|[⬜]()|
@@ -97,7 +97,7 @@
 
 # PART6  최근 빈출 유형 백준 문제 추천
 
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 신기한 소수](https://www.acmicpc.net/problem/2023)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 두 동전](https://www.acmicpc.net/problem/16197)|[⬜]()|[⬜]()|[⬜]()|
@@ -108,7 +108,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="12">우수 마을](https://www.acmicpc.net/problem/1949)|[⬜]()|[⬜]()|[⬜]()|
 
 # 시뮬레이션 강훈련
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> iSharp](https://www.acmicpc.net/problem/3568)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> CPU](https://www.acmicpc.net/problem/16506)|[⬜]()|[⬜]()|[⬜]()|
@@ -124,7 +124,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/17.svg" height="12"> Yut Nori](https://www.acmicpc.net/problem/15778)|[⬜]()|[⬜]()|[⬜]()|
 
 # 그래도 아쉽다면?
-|문제|KANG|SOH|LEE|
+|문제|KANG|SO|LEE|
 |:--|:--:|:--:|:--:|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 접두사](https://www.acmicpc.net/problem/1141)|[⬜]()|[⬜]()|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 문자열 폭발](https://www.acmicpc.net/problem/9935)|[⬜]()|[⬜]()|[⬜]()|
