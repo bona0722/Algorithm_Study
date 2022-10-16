@@ -70,7 +70,7 @@
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 숨바꼭질3](https://www.acmicpc.net/problem/13549)|[⬜]()|[🟩](./PART4/PART4_so/BOJ13549_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 숨바꼭질4](https://www.acmicpc.net/problem/13913)|[⬜]()|[🟩](./PART4/PART4_so/BOJ13913_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 이모티콘](https://www.acmicpc.net/problem/14226)|[⬜]()|[🟩](./PART4/PART4_so/BOJ14226_so.py)|[⬜]()|
-|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 아기상어2](https://www.acmicpc.net/problem/17086)|[⬜]()|[⬜]()|[⬜]()|
+|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 아기상어2](https://www.acmicpc.net/problem/17086)|[⬜]()|[🟩](./PART4/PART4_so/BOJ17086_so.py)|[⬜]()|
 |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/18.svg" height="12"> 달리기](https://www.acmicpc.net/problem/16930)|[⬜]()|[⬜]()|[⬜]()|
 
 # PART5 DP 문제풀이 강훈련 백준 문제 추천
